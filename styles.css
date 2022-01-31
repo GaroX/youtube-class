@@ -1,0 +1,32 @@
+div.noticia {
+    
+    width: 35%;
+    margin: 20px auto;
+    padding: 15px;
+    left: 100px;
+}
+
+.izquierda {
+    width: 500px;
+    height: 250;
+    left: 50px;
+    top: 20px;
+}
+#container {
+
+    width: 70%;
+    margin: 0% auto;
+} 
+
+.tecnomundo{
+    width: 70%;
+    margin:0% auto;
+}
+
+
+.input {
+    margin-bottom:20px;
+padding-right:500px;
+margin-left:30%;
+font-family:Arial !important;
+}
