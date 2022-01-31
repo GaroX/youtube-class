@@ -1,0 +1,29 @@
+div.cuadrado {
+    width: 50%;
+    margin: 20px auto;
+    padding: 15px;
+    left: 100px;
+  }
+div.cuadrado img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
+.izquierda {
+    width: 500px;
+    height: 250px;
+    left: 50px;
+    top: 20px;
+}
+#container {
+  width: 70%;
+  margin: 0% auto;
+}
+
+.input {
+  padding-left: 300px;
+
+}
+.hero-body {
+  height: 150px;
+}
