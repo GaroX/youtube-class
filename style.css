@@ -1,0 +1,41 @@
+#container {
+    margin: 0% auto;
+    width: 70%;
+}
+  .input {
+     left: 30%;
+     padding-left: 200px;
+     
+  }
+
+  .imagen {
+      width: 30px;
+      left: 1000px;
+  }
+   .button {
+     left: 200px;
+   }
+  .imagenredonda {
+    width:70px;
+    height:70px;
+    border-radius:160px;
+     
+  }
+  .imageninput {
+    width: 20px;
+    
+  }
+  div.noticia {
+    width: 40%;
+    margin: 20px auto;
+  
+  }
+  
+  div.noticia img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+
+  
+  
+  
